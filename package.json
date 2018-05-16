@@ -1,0 +1,25 @@
+{
+  "name": "m8e.pw",
+  "version": "1.0.0",
+  "description": "",
+  "private": true,
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "vuepress dev",
+    "build": "vuepress build"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/MisumiRize/m8e.pw.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MisumiRize/m8e.pw/issues"
+  },
+  "homepage": "https://github.com/MisumiRize/m8e.pw#readme",
+  "dependencies": {
+    "vuepress": "^0.8.4"
+  }
+}
