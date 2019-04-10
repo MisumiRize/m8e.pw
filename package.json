@@ -20,6 +20,6 @@
   },
   "homepage": "https://github.com/MisumiRize/m8e.pw#readme",
   "dependencies": {
-    "vuepress": "^0.8.4"
+    "vuepress": "^0.14.10"
   }
 }
