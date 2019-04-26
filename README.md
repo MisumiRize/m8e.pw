@@ -10,10 +10,10 @@
 ### Camera body
 * SONY a7R III
 ### Lens
+* SONY Vario-Tessar T* FE 16-35mm F4 ZA OSS
 * SONY Planar T* FE 50mm F1.4 ZA
 * SONY Sonnar T* FE 55mm F1.8 ZA
-* SONY Vario-Tessar T* FE 16-35mm F4 ZA OSS
-* SONY FE 100mm F2.8 STF GM OSS
+* ZEISS Milvus 1.4/85 ZE
 * SIGMA 135mm F1.8 DG HSM | Art
 ### Strobe, flash
 * 2x Godox Pocket Flash AD200
